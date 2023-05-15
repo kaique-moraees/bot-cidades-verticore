@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botcidades/__init__.py
+botcidades/__main__.py
+botcidades/bot.py
+botcidades.egg-info/PKG-INFO
+botcidades.egg-info/SOURCES.txt
+botcidades.egg-info/dependency_links.txt
+botcidades.egg-info/requires.txt
+botcidades.egg-info/top_level.txt
+botcidades/resources/buscar.png
+botcidades/resources/lupa.png
+botcidades/resources/start.png
